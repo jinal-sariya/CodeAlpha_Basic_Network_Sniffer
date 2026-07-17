@@ -41,6 +41,9 @@ Run the project
 ```bash
 python packet_sniffer.py
 ```
+## Screenshot
+
+![Network Sniffer](screenshots/output.png)
 
 ## Author
 
